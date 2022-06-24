@@ -1,0 +1,19 @@
+{
+  "name": "csandman-relative-readme-links",
+  "version": "1.0.0",
+  "description": "An example project demonstrating relative links in GitHub readmes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csandman/csandman-relative-readme-links.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/csandman/csandman-relative-readme-links/issues"
+  },
+  "homepage": "https://github.com/csandman/csandman-relative-readme-links#readme"
+}
